@@ -8,6 +8,8 @@
 
 3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
 
+Link to the Heroku Application: https://safe-earth-22555.herokuapp.com/
+
 ## User Story
 
 ```md
