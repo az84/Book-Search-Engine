@@ -1,6 +1,6 @@
 # Book Search Engine
 
-## Your Task
+## Summary
 
 1. Set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
 
@@ -8,18 +8,9 @@
 
 3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
 
-Link to the Heroku Application: https://safe-earth-22555.herokuapp.com/
+Link to the Heroku Application:[Book Search](https://safe-earth-22555.herokuapp.com/)
 
 ## User Story
-
-```md
-AS AN avid reader
-I WANT to search for new books to read
-SO THAT I can keep a list of books to purchase
-```
-
-
-## Acceptance Criteria
 
 ```md
 GIVEN a book search engine
@@ -182,4 +173,6 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 
 * `LoginForm.js`: Replace the `loginUser()` functionality imported from the `API` file with the `LOGIN_USER` mutation functionality.
 
-
+## Contact 
+- [Alina Zaidi](https://github.com/az84)
+- [LinkedIn](https://www.linkedin.com/in/alinazaidi1098/)
